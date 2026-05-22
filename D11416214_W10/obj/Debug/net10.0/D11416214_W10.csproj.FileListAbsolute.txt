@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\bin\Debug\net10.0\D11416214_W10.exe
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\bin\Debug\net10.0\D11416214_W10.deps.json
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\bin\Debug\net10.0\D11416214_W10.runtimeconfig.json
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\bin\Debug\net10.0\D11416214_W10.dll
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\bin\Debug\net10.0\D11416214_W10.pdb
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.dll
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\refint\D11416214_W10.dll
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.pdb
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\D11416214_W10.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\D11416214_W10\D11416214_W10\D11416214_W10\obj\Debug\net10.0\ref\D11416214_W10.dll
